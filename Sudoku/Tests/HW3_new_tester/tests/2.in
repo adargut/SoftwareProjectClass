@@ -1,0 +1,11 @@
+0
+set 1 1 1
+set 4 2 1
+set 7 3 2
+set 8 3 3
+set 9 3 4
+validate
+restart
+2
+exit
+

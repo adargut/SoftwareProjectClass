@@ -1,0 +1,10 @@
+30
+set 9 3 3 3
+validate
+set 9 3 0 8 7
+validate
+set 9 3 4 8
+validate
+hint 2 2 2
+exit
+

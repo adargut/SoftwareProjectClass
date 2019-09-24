@@ -1,0 +1,11 @@
+80
+set 6 7 8
+set 6 7 
+set 9
+hint 1
+hint 3 3 3 3 3 3 3
+restart
+91
+-5
+0
+

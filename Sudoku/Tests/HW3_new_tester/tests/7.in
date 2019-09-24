@@ -1,0 +1,6 @@
+25
+4
+set    4 3  2
+validate
+hint  4 3
+exit

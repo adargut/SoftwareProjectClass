@@ -1,0 +1,11 @@
+0
+set 1 1 1
+set 1 1 0
+set 123
+hint 2 2 2
+validate
+set 1 2 3
+validate
+restart
+exit
+

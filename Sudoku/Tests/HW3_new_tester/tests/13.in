@@ -1,0 +1,90 @@
+set 1 1 6
+set 1 2 8
+set 1 3 4
+set 1 4 6
+set 1 5 7
+set 1 6 1
+set 1 7 2
+set 1 8 3
+set 1 9 4
+validate
+set 2 1 8
+set 2 2 8
+set 2 3 7
+set 2 4 9
+set 2 5 6
+set 2 6 6
+set 2 7 7
+set 2 8 8
+set 2 9 5
+validate
+set 3 1 3
+set 3 2 4
+set 3 3 2
+set 3 4 6
+set 3 5 7
+set 3 6 7
+set 3 7 9
+set 3 8 6
+set 3 9 7
+validate
+set 4 1 4
+set 4 2 2
+set 4 3 3
+set 4 4 2
+set 4 5 4
+set 4 6 2
+set 4 7 5
+set 4 8 4
+set 4 9 2
+validate
+set 5 1 7
+set 5 2 1
+set 5 3 5
+set 5 4 4
+set 5 5 1
+set 5 6 3
+set 5 7 7
+set 5 8 2
+set 5 9 7
+validate
+set 6 1 5
+set 6 2 3
+set 6 3 5
+set 6 4 4
+set 6 5 2
+set 6 6 9
+set 6 7 2
+set 6 8 9
+set 6 9 1
+validate
+set 7 1 9
+set 7 2 1
+set 7 3 2
+set 7 4 2
+set 7 5 9
+set 7 6 7
+set 7 7 6
+set 7 8 2
+set 7 9 3
+validate
+set 8 1 6
+set 8 2 7
+set 8 3 8
+set 8 4 8
+set 8 5 7
+set 8 6 9
+set 8 7 8
+set 8 8 4
+set 8 9 1
+validate
+set 9 1 6
+set 9 2 3
+set 9 3 6
+set 9 4 7
+set 9 5 1
+set 9 6 4
+set 9 7 9
+set 9 8 5
+set 9 9 3
+validate

@@ -1,0 +1,20 @@
+75
+set 2 5 3
+hint 4 2
+set 3 3 5
+set 4 2 9
+hint 6 3
+set 8 3 9
+set 9 3 3
+set 6 3 4
+set 9 8 2
+hint 9 3
+set 9 2 4
+hint 6 5
+set 6 5 9
+hint 1 9
+set 1 9 2
+hint 7 8
+set 7 8 8
+exit
+

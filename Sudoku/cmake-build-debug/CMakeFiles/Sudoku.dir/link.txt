@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Sudoku.dir/objects.a
+C:\mingw\mingw64\bin\ar.exe cr CMakeFiles\Sudoku.dir/objects.a @CMakeFiles\Sudoku.dir\objects1.rsp
+C:\mingw\mingw64\bin\gcc.exe  -fmessage-length=0 -ansi -Wall -Wextra -Werror -pedantic-errors -g   -Wl,--whole-archive CMakeFiles\Sudoku.dir/objects.a -Wl,--no-whole-archive  -o Sudoku.exe -Wl,--out-implib,libSudoku.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sudoku.dir\linklibs.rsp

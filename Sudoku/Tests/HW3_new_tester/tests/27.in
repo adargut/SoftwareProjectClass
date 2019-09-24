@@ -1,0 +1,8 @@
+50
+set 1 1 0
+set 5 2 7
+set 4 2 7
+set 5 2 0
+set 4 2 7
+exit
+

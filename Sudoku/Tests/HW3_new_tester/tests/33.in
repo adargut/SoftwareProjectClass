@@ -1,0 +1,14 @@
+40
+set 7 5 6
+validate
+set 7 5 0
+validate
+set 7 5 6
+validate
+set 7 5 0
+validate
+set 7 5 4
+validate
+exit
+
+

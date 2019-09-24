@@ -1,0 +1,8 @@
+80
+set 2 4 1
+restart
+79
+set 7 3 9
+set 5 9 1
+exit
+
